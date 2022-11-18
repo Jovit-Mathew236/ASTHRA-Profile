@@ -7,7 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
-  background-image: url(/assets//images/BG.png);
+  background-image: url(./images/BG.png);
   background-size: cover;
   font-family: 'Space Grotesk', sans-serif;
 }
